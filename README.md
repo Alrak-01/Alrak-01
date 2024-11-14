@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Alracode?tab=repositories" target="_blank">Repositories</a> •
+  <a href="https://github.com/Alrak-01?tab=repositories" target="_blank">Repositories</a> •
   <a href="https://www.linkedin.com/in/olalekan-abdulraheem-7933ab308/" target="_blank">LinkedIn</a> •
   <a href="https://twitter.com/lekanraheem7" target="_blank">Twitter</a> •
   <a href="mailto:lekanraheem827@gmail.com" target="_blank">Email</a>
