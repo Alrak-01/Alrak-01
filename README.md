@@ -28,7 +28,7 @@
 - **HTML, CSS, Tailwind CSS, JavaScript, Bootstrap, React**
 
 #### Backend
-- **PHP, MySQL**
+- **PHP, MySQL, LARAVEL, LIVEWIRE**
 
 #### Tools & Technologies
 - **Git, GitHub, jQuery, Ajax, Apis, Cloudinary**
